@@ -18,7 +18,9 @@ The FrmUpload.class.php doesn't handle the file types that can be uploaded to th
 
 ![01](http://sejalivre.org/poc4/1.png)
 
+![02](http://sejalivre.org/poc4/2.png)
+
+![03](http://sejalivre.org/poc4/3.png)
 
 
-
-http://sejalivre.org/sitemagic/files/images/info.php
+The file uploaded on this poc is hosted here: http://sejalivre.org/sitemagic/files/images/info.php
